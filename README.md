@@ -1,1 +1,4 @@
-# group-project-1
+# Moodify
+
+![Logo](/assets/images/default_logo.png)
+
